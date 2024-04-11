@@ -9,5 +9,6 @@ x = [150, 250, 350, 450]
 print(statistics.mean(x))  
 
 
-#numpy, pandas and more 
+# numpy, pandas and more 
 # how to change in python
+# How to merge update
